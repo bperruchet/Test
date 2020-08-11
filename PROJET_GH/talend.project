@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_YJWuwNu0EeqafcwwSedyag" label="Projet_GH" description="" language="java" technicalLabel="PROJET_GH" creationDate="2020-08-11T11:08:33.934+0200" author="_YJWuwdu0EeqafcwwSedyag" productVersion="Talend Data Fabric-7.3.1.20200219_1130" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/bperruchet/Test_GH&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI">
+    <migrationTask xmi:id="_YK94UNu0EeqafcwwSedyag" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_YJWuwdu0EeqafcwwSedyag" login="bperruchet@talend.com" firstName="Benoit" lastName="Perruchet" type="DI" additionnalData="{}"/>
+</xmi:XMI>
